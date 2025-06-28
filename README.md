@@ -1,3 +1,4 @@
+
 # NoBg
 
 A SaaS tool to remove image backgrounds using Python, FastAPI, and the rembg library.
